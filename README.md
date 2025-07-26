@@ -1,0 +1,1 @@
+Este proyecto representa una simulación básica para una clínica veterinaria utilizando programación orientada a objetos. Se implementan clases para distintos tipos de mascotas, interfaces para comportamientos específicos como atención especial y vacunación, y se demuestra el uso de herencia, polimorfismo e interfaces.
